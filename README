@@ -1,0 +1,7 @@
+the files, DIN_Bd_PS.zip and Univers_ps.zip must be in the same folder as the fontinstaller.sh
+
+install run: "sudo ./fontinstaller.sh"
+
+if you get a "permission denied", you have to make fontinstaller.sh executable.
+do it with the following command
+"sudo chmod +x fontinstaller.sh"
